@@ -330,7 +330,7 @@
               <key>fontStyle</key>
               <string />
               <key>foreground</key>
-              <string>#333</string>
+              <string>#ff00cc</string>
           </dict>
       </dict>
       <dict>
